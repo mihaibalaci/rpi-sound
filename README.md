@@ -1,4 +1,4 @@
-# Linux-Audio
+# RPI-Audio
 Debian Based RPi tweaks for improved sound.
 
 I've tested it on both Volumio and Moode Audio
